@@ -1,0 +1,106 @@
+{
+    "imagebaseurl": "https://mbkrafft.github.io/",
+    "name": "Mathias Krafft",
+    "role": "Student at the University in Oslo master’s program Informatics: Language Technology",
+    "linkedinId": "mbkrafft",
+    "roleDescription": "Interested in machine learning, data visualization and analytics, open source development and natural language processing.",
+    "socialLinks": [
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/mbkrafft/",
+            "className": "fa fa-linkedin"
+        },
+        {
+            "name": "github",
+            "url": "http://github.com/mbkrafft",
+            "className": "fa fa-github"
+        }
+    ],
+    "aboutme": "Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.",
+    "website": "https://mbkrafft.github.io",
+    "email": "mbkrafft@gmail.com",
+    "education": [
+        {
+            "UniversityName": "University of Oslo",
+            "specialization": "Informatics: Language Technology",
+            "MonthOfStarting": "Aug",
+            "YearOfStarting": "2019",
+            "MonthOfPassing": "",
+            "YearOfPassing": "Present",
+            "description": "Master's degree"
+        },
+        {
+            "UniversityName": "University of Oslo",
+            "specialization": "Informatics: Robotics and Intelligent Systems",
+            "MonthOfStarting": "Aug",
+            "YearOfStarting": "2017",
+            "MonthOfPassing": "June",
+            "YearOfPassing": "2019",
+            "description": "Bachelor's degree"
+        },
+        {
+            "UniversityName": "Western Norway University of Applied Sciences",
+            "specialization": "Subsea Engineering: Operations and Maintenance",
+            "MonthOfStarting": "Aug",
+            "YearOfStarting": "2014",
+            "MonthOfPassing": "June",
+            "YearOfPassing": "2017",
+            "description": "Bachelor's degree"
+        }
+    ],
+    "work": [
+        {
+            "CompanyName": "Vinmonopolet AS",
+            "specialization": "Shop assistant",
+            "MonthOfStarting": "June",
+            "YearOfStarting": "2017/18/19",
+            "MonthOfLeaving": "Aug",
+            "YearOfLeaving": "2019",
+            "description": "Job description, accomplishments"
+        },
+        {
+            "CompanyName": "Lanternen AS",
+            "specialization": "Waiter, Bouncer, Janitor",
+            "MonthOfStarting": "June",
+            "YearOfStarting": "2017/18",
+            "MonthOfLeaving": "Aug",
+            "YearOfLeaving": "2018",
+            "description": "Job description, accomplishments"
+        },
+        {
+            "CompanyName": "Enhanced Drilling",
+            "specialization": "Engineering Internship",
+            "MonthOfStarting": "June",
+            "YearOfStarting": "2015",
+            "MonthOfLeaving": "July",
+            "YearOfLeaving": "2015",
+            "description": "Job description, accomplishments"
+        }
+    ],
+    "portfolio": [
+        {
+            "name": "Path Finder Visualizer",
+            "description": "Web app that visualizes the process of finding the path between two points for different path algorithms.",
+            "imgurl": "images/portfolio/pfv.jpg",
+            "link": "https://github.com/mbkrafft"
+        },
+        {
+            "name": "DHIS2 - Data Set Report Browser",
+            "description": "Web app created on the DHIS2 platform that makes it easy for end users to display and navigate data set reports.",
+            "imgurl": "images/portfolio/dhis2.png",
+            "link": "https://github.com/mbkrafft"
+        },
+        {
+            "name": "THIRD PROJECT",
+            "description": "THIRD PROJECT",
+            "imgurl": "images/portfolio/dhis2.png",
+            "link": "https://github.com/mbkrafft"
+        },
+        {
+            "name": "FOURTH PROJECT",
+            "description": "FOURTH PROJECT",
+            "imgurl": "images/portfolio/dhis2.png",
+            "link": "https://github.com/mbkrafft"
+        }
+    ]
+}
