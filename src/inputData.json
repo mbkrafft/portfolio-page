@@ -16,7 +16,7 @@
             "className": "fa fa-github"
         }
     ],
-    "aboutme": "Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.Interested in machine learning, data visualization and analytics, open source development and natural language processing.",
+    "aboutme": "While writing my engineering thesis about feeding pellets to fish in underwater cages through tubes,  we needed to do complex calculations and simulate the transport of the pellets. This was done through writing code in MATLAB and Python. I was hooked. Since then, I've studied informatics to improve my skills and further cultivate my passion for coding.  The journey that initially started with data visualization and differential equations has led me to machine learning and natural language processing.  I'm currently pursuing my master's degree in language technology, where we study how computers, using machine learning techniques, can make sense of human language and how humans communicate through language.",
     "website": "https://mbkrafft.github.io",
     "email": "mbkrafft@gmail.com",
     "education": [
@@ -60,7 +60,7 @@
         },
         {
             "CompanyName": "Lanternen AS",
-            "specialization": "Waiter, Bouncer, Janitor",
+            "specialization": "Security, Waiter",
             "MonthOfStarting": "June",
             "YearOfStarting": "2017/18",
             "MonthOfLeaving": "Aug",
@@ -85,22 +85,22 @@
             "link": "https://github.com/mbkrafft"
         },
         {
-            "name": "DHIS2 - Data Set Report Browser",
+            "name": "Data Set Report Browser",
             "description": "Web app created on the DHIS2 platform that makes it easy for end users to display and navigate data set reports.",
             "imgurl": "images/portfolio/dhis2.png",
             "link": "https://github.com/mbkrafft"
         },
         {
-            "name": "THIRD PROJECT",
-            "description": "THIRD PROJECT",
-            "imgurl": "images/portfolio/dhis2.png",
-            "link": "https://github.com/mbkrafft"
+            "name": "Weather Slack Bot",
+            "description": "A bot that can be used to give a user weather information about any given city, all within Slack.",
+            "imgurl": "images/portfolio/slack.png",
+            "link": "https://github.com/mbkrafft/SlackBotWeather"
         },
         {
-            "name": "FOURTH PROJECT",
-            "description": "FOURTH PROJECT",
-            "imgurl": "images/portfolio/dhis2.png",
-            "link": "https://github.com/mbkrafft"
+            "name": "Portfolio Page",
+            "description": "This web page, which was quickly created as a mvp with react",
+            "imgurl": "images/portfolio/portfolio.png",
+            "link": "https://github.com/mbkrafft/portfolio-page"
         }
     ]
 }
