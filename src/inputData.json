@@ -79,10 +79,10 @@
     ],
     "portfolio": [
         {
-            "name": "Path Finder Visualizer",
-            "description": "Web app that visualizes the process of finding the path between two points for different path algorithms.",
-            "imgurl": "images/portfolio/pfv.jpg",
-            "link": "https://github.com/mbkrafft"
+            "name": "Hand Movement Classifier",
+            "description": "Multi layer perceptron model created and trained from scratch to predict hand motions of a prosthetic hand given electromyographic (EMG) signals from sensors placed on a patients arm.",
+            "imgurl": "images/portfolio/hmc.jpg",
+            "link": "https://github.com/mbkrafft/prosthetic-hand-movement-prediction"
         },
         {
             "name": "Data Set Report Browser",
@@ -97,8 +97,8 @@
             "link": "https://github.com/mbkrafft/SlackBotWeather"
         },
         {
-            "name": "Portfolio Page",
-            "description": "This web page, which was quickly created as a mvp with react",
+            "name": "Portfolio Web Page",
+            "description": "This web page, developed quickly in React to showcase my current work and education.",
             "imgurl": "images/portfolio/portfolio.png",
             "link": "https://github.com/mbkrafft/portfolio-page"
         }
